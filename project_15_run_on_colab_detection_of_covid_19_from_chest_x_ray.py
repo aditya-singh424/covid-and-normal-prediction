@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt
 # Install keras_preprocessing if not already installed
 #!pip install keras_preprocessing
 
-# ! pip install keras_preprocessing
+!pip install keras_preprocessing
 
 """# Data ingesting of Covid 19 images
 
